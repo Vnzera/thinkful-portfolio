@@ -6,6 +6,45 @@
 
 body {
     margin: 0;
+    text-align: center;
+    background-color: #e3f2f7;
+}
+
+/* space out the sections */
+
+section {
+    margin: 3rem;
+}
+
+/* font and text styles  */
+
+h1, h2, h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: #1196ff;
+}
+
+p, li {
+    color: #3b454d;
+    margin: 1.5rem;
+}
+
+/* link styles */
+
+a {
+    color: #45a4f0;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #447ead;
+}
+
+a:hover {
+    color: #6fbeff;
+}
+
+a:active {
+    color: #1b507a;
 }
 
 /* header styles */
@@ -15,7 +54,6 @@ header {
     box-shadow: 2px 2px 6px #003864;
     color: #1196ff;
     height: 7rem;
-    text-align: center;
 }
 
 header h1 {
@@ -28,4 +66,14 @@ header h2 {
     margin: 0;
 }
 
-/* styles for first intro section */
+/* styles for image */
+
+img {
+    border: 1px solid black;
+    height: 20rem;
+    box-shadow: 2px 2px 6px #003864;
+    border-radius: 13px;
+    margin: 1rem;
+    padding: 0.2rem;
+    object-fit: cover;
+  }

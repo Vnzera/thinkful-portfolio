@@ -4,4 +4,4 @@ This is a portfolio website made as a project for Thinkful's prep course for the
 
 ## Getting Started
 
-No tests or script runners. Just html, css and js.
+No tests or script runners. Just html and css
