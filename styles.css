@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+/* gets rid of white space above header */
+
+body {
+    margin: 0;
+}
+
+/* header styles */
+
+header {
+    background-color: #1e2122;
+    box-shadow: 2px 2px 6px #003864;
+    color: #1196ff;
+    height: 7rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0px;
+    padding: 0px;
+    line-height: 4rem;
+}
+
+header h2 {
+    margin: 0;
+}
+
+/* styles for first intro section */
