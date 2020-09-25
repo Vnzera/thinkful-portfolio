@@ -12,7 +12,7 @@ body {
 
 /* space out the sections */
 
-section {
+article {
     margin: 3rem;
 }
 
@@ -26,6 +26,7 @@ h1, h2, h3 {
 p, li {
     color: #3b454d;
     margin: 1.5rem;
+    font-size: 1rem;
 }
 
 /* link styles */
